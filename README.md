@@ -1,0 +1,2 @@
+# polynomial
+Polynomial class realization
